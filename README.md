@@ -8,6 +8,8 @@ This github repository contains the course material for the course
 An introductory course about theoretical fundamentals, case studies 
 and implementations in python and tensorflow**
 
+given in the Autumn Semester 2018 at the ZHAW (University of Zürich for applied science).
+
 # What to do before the course start
 
 Before the course start plese do the following:
