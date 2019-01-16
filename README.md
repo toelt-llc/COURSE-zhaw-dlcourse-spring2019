@@ -16,6 +16,8 @@ Before the course start plese do the following:
 
 1. Get the PDF for the book under the folder ```book``` and follow Chapter 1 to install your environment. It is important that on the first day of the course you have a laptop on which you can run jupyter notebooks with tensorflow installed. In case you have issues please don't hesitate to contact me. We will try to sort out your issues before the course begin.
 
+__NOTE__: the students paid for the book. Since when the repository is open to everyone, the file has been removed for copyright reasons.
+
 # References
 
 In case you want to get some exposure to Python I can  suggest the following book
