@@ -1,7 +1,7 @@
 # Dates and Times
 
 Here is a list of the dates of all the evenings when we have the class.
-In case you cannot come please inform me, so that I can more or less keep track of who is there and who is not.
+In case you cannot come please inform me, so that I can more or less keep track of who is there and who is not. For questions simply send me an email at umberto.michelucci@gmail.com
 
 * **19.3** - Introductory Week 1
 * **26.3** - Introductory Week 2
