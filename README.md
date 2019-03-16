@@ -44,6 +44,8 @@ given in the Spring Semester 2019 at the ZHAW (University of Zürich for applied
 
 [Linear regression with tensorflow](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%204%20-%20One%20Neuron/Week%204%20-%20Linear%20Regression%20with%20Tensor%20Flow.ipynb)
 
+[Linear regression with Keras](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%204%20-%20One%20Neuron/Week%204%20-%20Linear%20Regression%20with%20Keras.ipynb)
+
 [MNIST with logistic regression and tensorflow](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%204%20-%20One%20Neuron/Week%204%20-%20MNIST%20with%20Logistic%20Regression%20and%20tensorflow.ipynb)
 
 [One dimensional linear regression with TensorFlow](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%204%20-%20One%20Neuron/Week%204%20-%20One%20dimensional%20linear%20regression%20with%20tensorflow.ipynb)
