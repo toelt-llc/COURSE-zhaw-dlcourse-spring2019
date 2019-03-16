@@ -50,7 +50,25 @@ given in the Spring Semester 2019 at the ZHAW (University of Zürich for applied
 
 ### Week 5
 
+[Overfitting](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%205%20-%20Fully%20Connected%20Networks/Week%205%20-%20Overfitting%20notebook.ipynb)
+
+[Zalando dataset](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%205%20-%20Fully%20Connected%20Networks/Week%205%20-%20Zalando%20dataset.ipynb)
+
 ### Week 6
+
+[Optimizers - Reference](http://tiny.cc/2cn53y)
+
+[Network Training - Learning rate - Reference](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%206%20-%20Network%20Training/Week%206%20-%20Network%20Training%20-%20Learning%20Rate%20Notebook%20-%20Reference.ipynb)
+
+[Zalando dataset](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%205%20-%20Fully%20Connected%20Networks/Week%205%20-%20Zalando%20dataset.ipynb)
+
+[Optimizer introduction and exercises](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%206%20-%20Network%20Training/Week%206%20-%20Optimizers%20Introduction%20and%20exercises.ipynb)
+
+[Zalando dataset and decaying learning rate](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%206%20-%20Network%20Training/Week%206%20-%20Zalando%20dataset%20and%20decaying%20learning%20rate.ipynb)
+
+[Batch mini-batch difference](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%206%20-%20Network%20Training/Week%206%20-%20batch-mini-bach%20difference.ipynb)
+
+
 
 ### Week 7
 
