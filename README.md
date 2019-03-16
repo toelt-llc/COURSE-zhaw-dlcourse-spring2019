@@ -68,12 +68,36 @@ given in the Spring Semester 2019 at the ZHAW (University of Zürich for applied
 
 [Batch mini-batch difference](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%206%20-%20Network%20Training/Week%206%20-%20batch-mini-bach%20difference.ipynb)
 
-
-
 ### Week 7
+
+[Regularization boundary - Reference](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%207%20-%20Regularization/Week%207%20-%20Regularization%20Boundary%20-%20REFERENCE.ipynb)
+
+[Regularization](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%207%20-%20Regularization/Week%207%20-%20Regularization.ipynb)
+
+[Small introduction to Keras](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%207%20-%20Regularization/Week%207%20-%20Small%20Introduction%20to%20Keras.ipynb)
 
 ### Week 8
 
+[Metric analysis - Reference](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%208%20-%20Metric%20Analysis/Week%208%20-%20Metric%20Analysis%20-%20REFERENCE.ipynb)
+
+[Metric analysis](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%208%20-%20Metric%20Analysis/Week%208%20-%20Metric%20Analysis.ipynb)
+
+[k-Fold validation](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%208%20-%20Metric%20Analysis/Week%208%20-%20k-fold%20validation.ipynb)
+
+### Week 9
+
+[Search methods](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%209%20-%20Hyperparameter%20Tuning/Week%209%20-%20Search%20methods.ipynb)
+
+[Tuning with Zalando Dataset](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%209%20-%20Hyperparameter%20Tuning/Week%209%20-%20Tuning%20with%20Zalando%20dataset.ipynb)
+
 ### Fundamentals of CNN
 
+[Fundamentals of CNNs](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Additional%20Material%20-%20CNN/Additional%20material%20-%20Fundamentals%20of%20CNNs.ipynb)
+
 ### Fundamentals of RNN
+
+[Fundamentals of RNN](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Additional%20Material%20-%20RNN/RNN%20Basic%20Example.ipynb)
+
+### Final Project
+
+[Fundamentals of RNN](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Final%20Project/Histology%20Tissue%20Classification%20Project.ipynb)
