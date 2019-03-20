@@ -20,6 +20,9 @@ given in the Spring Semester 2019 at the ZHAW (University of Zürich for applied
 
 [Solution to exercises](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%201%20-%20Mathematic%20introduction/Week%201%20-%20Solution%20to%20exercises.ipynb)
 
+[Derivation of linear regression formula](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%201%20-%20Mathematic%20introduction/Week%201%20-%20Linear%20Regression%20Formula%20Derivation.ipynb)
+
+
 ### Week 2 notebooks
 
 [Calculus and optimisation](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%202%20-%20Calculus%20and%20Data%20Visualisation/Week%202%20-%20Calculus%20and%20optimisation.ipynb)
