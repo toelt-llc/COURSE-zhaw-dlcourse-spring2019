@@ -29,7 +29,7 @@ given in the Spring Semester 2019 at the ZHAW (University of Zürich for applied
 
 [Data analysis example with 3 and 8](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%202%20-%20Calculus%20and%20Data%20Visualisation/Week%202%20-%20Data%20Analysis%20Example-3%20and%208.ipynb)
 
-[Data analysis example](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%202%20-%20Calculus%20and%20Data%20Visualisation/Week_2_Data_Analysis_Example_MNIST_without_Tensorflow.ipynb)
+[Data analysis example](https://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%202%20-%20Calculus%20and%20Data%20Visualisation/Week_2_Data_Analysis_Example_MNIST_without_Tensorflow.ipynb)
 
 [Gradient Descent examples](https://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%202%20-%20Calculus%20and%20Data%20Visualisation/Week_2_Gradient_Descent_examples.ipynb)
 
