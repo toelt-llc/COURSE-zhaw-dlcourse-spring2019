@@ -35,11 +35,17 @@ given in the Spring Semester 2019 at the ZHAW (University of Zürich for applied
 
 ### Week 3
 
-[Overloading of operators](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%202%20-%20Calculus%20and%20Data%20Visualisation/Week%202%20-%20Data%20Analysis%20Example.ipynb)
+[Overloading of operators](https://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%203%20-%20Computational%20graphs/Week%203%20-%20Overloading%20of%20operators%20in%20Tensorflow.ipynb)
 
-[Computational Graphs](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%203%20-%20Computational%20graphs/Week%203%20-%20Computational%20Graphs.ipynb)
+[Computational Graphs](https://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%203%20-%20Computational%20graphs/Week%203%20-%20Computational%20Graphs.ipynb)
 
-[Exercise solutions](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%203%20-%20Computational%20graphs/Week%203%20-%20Exercises%20Solutions.ipynb)
+[Exercise solutions](https://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%203%20-%20Computational%20graphs/Week%203%20-%20Exercises%20Solutions.ipynb)
+
+[Activation functions and gradient descent](https://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%203%20-%20Computational%20graphs/Week%203%20-%20Activation%20functions%20and%20gradient%20descent.ipynb)
+
+[Linear regression with Keras](https://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%203%20-%20Computational%20graphs/Week%203%20-%20Linear%20Regression%20with%20Keras.ipynb)
+
+[One dimensional linear regression with TensorFlow](https://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%203%20-%20Computational%20graphs/Week%203%20-%20One%20dimensional%20linear%20regression%20with%20tensorflow.ipynb)
 
 ### Week 4
 
