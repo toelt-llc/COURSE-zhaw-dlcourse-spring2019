@@ -49,17 +49,12 @@ given in the Spring Semester 2019 at the ZHAW (University of Zürich for applied
 
 ### Week 4
 
-[Activation fundtions and gradient descent optimisation](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%204%20-%20One%20Neuron/Week%204%20-%20Activation%20functions%20and%20gradient%20descent.ipynb)
-
-[Classification with tensorflow](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%204%20-%20One%20Neuron/Week%204%20-%20Classification%20with%20tensorflow.ipynb)
+[Classification with tensorflow](https://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%204%20-%20One%20Neuron/Week%204%20-%20Classification%20with%20tensorflow.ipynb)
 
 [Linear regression with tensorflow](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%204%20-%20One%20Neuron/Week%204%20-%20Linear%20Regression%20with%20Tensor%20Flow.ipynb)
 
-[Linear regression with Keras](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%204%20-%20One%20Neuron/Week%204%20-%20Linear%20Regression%20with%20Keras.ipynb)
+[MNIST with logistic regression and tensorflow](https://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%204%20-%20One%20Neuron/Week_4_MNIST_with_Logistic_Regression_and_tensorflow.ipynb)
 
-[MNIST with logistic regression and tensorflow](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%204%20-%20One%20Neuron/Week%204%20-%20MNIST%20with%20Logistic%20Regression%20and%20tensorflow.ipynb)
-
-[One dimensional linear regression with TensorFlow](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%204%20-%20One%20Neuron/Week%204%20-%20One%20dimensional%20linear%20regression%20with%20tensorflow.ipynb)
 
 ### Week 5
 
