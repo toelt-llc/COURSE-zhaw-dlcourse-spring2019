@@ -35,25 +35,26 @@ given in the Spring Semester 2019 at the ZHAW (University of Zürich for applied
 
 ### Week 3
 
-[Overloading of operators](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%202%20-%20Calculus%20and%20Data%20Visualisation/Week%202%20-%20Data%20Analysis%20Example.ipynb)
+[Overloading of operators](https://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%203%20-%20Computational%20graphs/Week%203%20-%20Overloading%20of%20operators%20in%20Tensorflow.ipynb)
 
-[Computational Graphs](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%203%20-%20Computational%20graphs/Week%203%20-%20Computational%20Graphs.ipynb)
+[Computational Graphs](https://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%203%20-%20Computational%20graphs/Week%203%20-%20Computational%20Graphs.ipynb)
 
-[Exercise solutions](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%203%20-%20Computational%20graphs/Week%203%20-%20Exercises%20Solutions.ipynb)
+[Exercise solutions](https://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%203%20-%20Computational%20graphs/Week%203%20-%20Exercises%20Solutions.ipynb)
+
+[Activation functions and gradient descent](https://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%203%20-%20Computational%20graphs/Week%203%20-%20Activation%20functions%20and%20gradient%20descent.ipynb)
+
+[Linear regression with Keras](https://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%203%20-%20Computational%20graphs/Week%203%20-%20Linear%20Regression%20with%20Keras.ipynb)
+
+[One dimensional linear regression with TensorFlow](https://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%203%20-%20Computational%20graphs/Week%203%20-%20One%20dimensional%20linear%20regression%20with%20tensorflow.ipynb)
 
 ### Week 4
 
-[Activation fundtions and gradient descent optimisation](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%204%20-%20One%20Neuron/Week%204%20-%20Activation%20functions%20and%20gradient%20descent.ipynb)
-
-[Classification with tensorflow](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%204%20-%20One%20Neuron/Week%204%20-%20Classification%20with%20tensorflow.ipynb)
+[Classification with tensorflow](https://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%204%20-%20One%20Neuron/Week%204%20-%20Classification%20with%20tensorflow.ipynb)
 
 [Linear regression with tensorflow](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%204%20-%20One%20Neuron/Week%204%20-%20Linear%20Regression%20with%20Tensor%20Flow.ipynb)
 
-[Linear regression with Keras](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%204%20-%20One%20Neuron/Week%204%20-%20Linear%20Regression%20with%20Keras.ipynb)
+[MNIST with logistic regression and tensorflow](https://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%204%20-%20One%20Neuron/Week_4_MNIST_with_Logistic_Regression_and_tensorflow.ipynb)
 
-[MNIST with logistic regression and tensorflow](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%204%20-%20One%20Neuron/Week%204%20-%20MNIST%20with%20Logistic%20Regression%20and%20tensorflow.ipynb)
-
-[One dimensional linear regression with TensorFlow](http://colab.research.google.com/github/michelucci/zhaw-dlcourse-spring2019/blob/master/Week%204%20-%20One%20Neuron/Week%204%20-%20One%20dimensional%20linear%20regression%20with%20tensorflow.ipynb)
 
 ### Week 5
 
