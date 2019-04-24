@@ -3,6 +3,7 @@
 [![license MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/github/commits-since/michelucci/zhaw-dlcourse-spring2019/v2.0.svg)
 ![](https://img.shields.io/github/last-commit/michelucci/zhaw-dlcourse-spring2019.svg)
+![](https://img.shields.io/github/repo-size/michelucci/zhaw-dlcourse-spring2019.svg)
 
 (C) 2018 Umberto Michelucci
 
