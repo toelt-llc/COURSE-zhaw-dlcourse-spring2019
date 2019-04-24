@@ -1,7 +1,7 @@
 # github repository for "Neural Networks and Deep Learning for Life Sciences and Health Applications" ZHAW course
 
 [![license MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![](https://img.shields.io/github/commits-since/michelucci/zhaw-dlcourse-spring2019/release2.0.svg)
+![](https://img.shields.io/github/commits-since/michelucci/zhaw-dlcourse-spring2019/v2.0.svg)
 
 (C) 2018 Umberto Michelucci
 
